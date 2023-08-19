@@ -4,7 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+var n = 'foo';
+console.log("Hello, " + n + ", My \"name\" is Ethan");
+console.log(2 + 2);
 
 /*  
 Next, PLAY! 
