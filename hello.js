@@ -7,6 +7,7 @@ to the console (the panel on the right)
 var n = 'foo';
 console.log("Hello, " + n + ", My \"name\" is Ethan");
 console.log(2 + 2);
+console.log(2); 
 
 /*  
 Next, PLAY! 
